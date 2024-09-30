@@ -1,1 +1,2 @@
 # AI-CHATBOT-BUSINESS-FAQS
+I developed an AI chatbot for business FAQs using Python, Tkinter, and the OpenAI API. The chatbot features a user-friendly GUI that provides instant answers from a predefined FAQ dictionary and generates contextual responses using AI for unmatched queries. This integration enhances customer support by reducing response times and improving satisfaction while showcasing my skills in NLP, API integration, and GUI development.
